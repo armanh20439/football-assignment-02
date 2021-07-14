@@ -56,7 +56,7 @@ body{
   }
 /* player area style  */
 .player-container{
- 
+ background-color: white;
 }
 .players-area{
     background-color: white;
@@ -82,8 +82,30 @@ body{
     
 }
 .player-content{
-   
+   background-color: white;
 }
 .edit{
     padding: 0;
+}
+/* footer area */
+
+.footer-box{
+  
+    text-align: center;
+    width: 485px;
+    height: 213px;
+   
+    
+}
+.footbol-logo img{
+    width: 268px;
+    height: 67px;
+   
+}
+.footer{
+    padding-top: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
